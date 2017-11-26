@@ -1,0 +1,2 @@
+Small helper utility that allows a user to first backup and then move the content of SD-card recorded by a Sony X70. 
+After the file-move, the card can be directly ingested into SONAPS via IngestTerminal.
